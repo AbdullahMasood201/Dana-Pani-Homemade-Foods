@@ -1,0 +1,6 @@
+{
+  "name": "Dana Pani Homemade Foods",
+  "description": "Homemade Pakistani meal service in Islamabad offering daily dishes, 4-week monthly meal menus, desserts, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
